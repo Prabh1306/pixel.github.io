@@ -1,0 +1,676 @@
+#google{
+    height:30px;
+    width: 30px;
+  background-color: white;
+  top: 20px;
+  left:40px;
+  position:absolute;
+}
+#phone{
+    height: 60px;
+    width: 80px;
+    background-color: white;
+    top: 25px;
+    left:110px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 16;
+    color: #3c4043;
+
+}
+#earbuds{
+    height: 60px;
+width: 80px;
+background-color: white;
+top: 25px;
+left:200px;
+position: absolute;
+font-weight: 400;
+font-size: 16;
+color: #3c4043;
+
+
+}
+#watches{
+    height: 60px;
+width: 80px;
+background-color: white;
+top: 25px;
+left:275px;
+position: absolute;
+font-weight: 400;
+font-size: 16;
+color: #3c4043;
+}
+#support{
+    height: 60px;
+    width: 80px;
+    color: #3c4043;
+    top: 25px;
+    left:400px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    }
+#accessories{
+    height: 60px;
+    width: 80px;
+    background-color: white;
+    top: 25px;
+    left:500px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 16;
+    color: #3c4043;
+}
+
+#tagline{
+    height: auto;
+    width: auto;
+    text-align: center;
+    top: 250px;
+    text-decoration: solid;
+    color: #3c4043;
+    left:400px;
+    position: absolute;
+    font-size: 60px;
+    font-weight: 900;
+    font-style:normal;
+
+
+    
+}
+#logo1{
+    height: 10px;
+    width: 10px;
+    background-image: url(pixel.png);
+    border-radius: 18px;
+    top: 500px;
+    left: 30px;
+    position: absolute;
+}
+#logo2{
+    height: 10px;
+    width: 10px;
+    background-image: url(pixel2.png);
+    border-radius: 18px;
+    top: 500px;
+    left: 200px;
+    position: absolute;
+}
+#logo3{
+    height: 10px;
+    width: 10px;
+    background-image: url(pixel3.png);
+    border-radius: 18px;
+    top: 500px;
+    left: 350px;
+    position: absolute;
+}
+
+#logo4{
+    height: 10px;
+    width: 10px;
+    background-image: url(pixel4.png);
+    border-radius: 18px;
+    top: 500px;
+    left: 500px;
+    position: absolute;
+}
+
+#logo5{
+    height: 10px;
+    width: 10px;
+    background-image: url(pixel8.png);
+    border-radius: 18px;
+    top: 500px;
+    left: 650px;
+    position: absolute;
+}
+
+#logo6{
+    height: 10px;
+    width: 10px;
+    background-image: url(pixel5.png);
+    border-radius: 18px;
+    top: 500px;
+    left: 800px;
+    position: absolute;
+}
+
+#logo7{
+    height: 10px;
+    width: 10px;
+    background-image: url(pixel6.png);
+    border-radius: 18px;
+    top: 500px;
+    left: 925px;
+    position: absolute;
+}
+
+#logo8{
+    height: 10px;
+    width: 10px;
+    background-image: url(pixel7.png);
+    border-radius: 18px;
+    top: 500px;
+    left: 1100px;
+    position: absolute;
+}
+
+#logo9{
+    height: 10px;
+    width: 10px;
+    background-image: url(pixel8.png);
+    border-radius: 18px;
+    top: 500px;
+    left: 1325px;
+    position: absolute;
+}
+
+#logo10{
+    height: 10px;
+    width: 10px;
+    background-image: url(pixel9.png);
+    border-radius: 18px;
+    top: 500px;
+    left: 1525px;
+    position: absolute;
+}
+
+#logo11{
+    height: 25px;
+    width: 25px;
+    background-color: whitesmoke;
+    border-radius: 18px;
+    top: 15px;
+    left: 1350px;
+    position: absolute;
+    color: #3c4043;
+    
+}
+
+#logo12{
+    height: 25px;
+    width: 25px;
+    background-color: whitesmoke;
+    border-radius: 18px;
+    top: 15px;
+    left: 1400px;
+    position: absolute;
+    color: #3c4043;
+}
+
+#logo13{
+    height: 25px;
+    width: 25px;
+    
+    border-radius: 18px;
+    top: 15px;
+    left: 1450px;
+    position: absolute;
+    color: #3c4043;
+}
+
+#logo14{
+    height: 587px;
+    width: 1150px;
+    background-color: #F6F4F0;
+    border-radius: 25px;
+    top: 750px;
+    left: 35px;
+    position: absolute;
+}
+#logo15{
+    height: 586px;
+    width: 586px;
+    border-radius: 35px;
+    top: 750px;
+    left: 597px;
+    position: absolute;
+    background-size: cover;
+    background-image: url(PIXEL9A.png);
+    
+}
+
+#tagline2{
+    height: 30px;
+    width: 450px;
+    background-color: #F6F4F0;
+    border-radius: 25px;
+    top: 1000px;
+    left: 175px;
+    position: absolute;
+    font-size: 60px;
+    color: #3c4043;
+    font-weight: bold;
+    font-weight: 700px;
+    font-family: "Roboto",sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+#tagline3{
+    height: 25px;
+    width: 500px;
+    
+    border-radius: 15px;
+    top: 1100px;
+    left: 175px;
+    position: absolute;
+    font-size: 19px;
+    color: #3c4043; 
+    font-weight: 400px;
+}
+#word{
+    height: 40px;
+    width: 125px;
+    background-color:  rgb(63, 97, 160);
+    top: 1150px;
+    left: 185px;
+    position: absolute;
+    font-size: 19px;
+    color: #dfe3e7; 
+    font-weight: 400px;
+   justify-content: center;
+    text-align: center;
+    border: 0px 0px 0px 0px rgb(63, 97, 160) none;
+    border-width: 0px;
+}
+#word1{
+    height: 40px;
+    width: 150px;
+font-style: normal;
+    top: 1153px;
+    left: 340px;
+    position: absolute;
+    font-size: 17px;
+    color:   rgb(63, 97, 160); 
+    font-weight: 250px;
+    text-align: justify;
+     text-decoration:none ;
+     
+     font-family: "Open Sans", sans-serif;
+     
+    
+    
+}
+#greater{
+    top: 1153px;
+    left: 450px;
+    color:   rgb(63, 97, 160);
+    position: absolute;
+}
+
+
+#logo16{
+    height: 587px;
+    width: 1150px;
+    background-color: #F6F4F0;
+    border-radius: 25px;
+    top: 750px;
+    left: 1220px;
+    position: absolute;
+}
+
+#logo17{
+    height: 600px;
+    width: 1150px;
+    
+    border-radius: 25px;
+    top: 750px;
+    left: 1820px;
+    position: absolute;
+}
+#tagline4{
+    height: 30px;
+    width: 450px;
+    background-color: #F6F4F0;
+    border-radius: 25px;
+    top: 950px;
+    left: 1350px;
+    position: absolute;
+    font-size: 60px;
+    color: #3c4043;
+    font-weight: bold;
+    font-weight: 700px;
+}
+
+#tagline5{
+    height: 25px;
+    width: 500px;
+    
+    border-radius: 15px;
+    top: 1100px;
+    left: 1350px;
+    position: absolute;
+    font-size: 19px;
+    color: #3c4043; 
+    font-weight: 400px;
+}
+
+#word2{
+    height: 40px;
+    width: 125px;
+    background-color:  rgb(63, 97, 160);
+    border-radius: 5px;
+    top: 1150px;
+    left: 1350px;
+    position: absolute;
+    font-size: 19px;
+    color:   rgb(63, 97, 160); 
+    font-weight: 400px;
+    text-align: center;
+    color: #dfe3e7;
+    justify-content: center;
+    border: 0px 0px 0px 0px rgb(63, 97, 160);
+    border-width: 0px;
+}
+#word3{
+    height: 40px;
+    width: 125px;
+    
+    border-radius: 5px;
+    top: 1150px;
+    left: 1500px;
+    position: absolute;
+    font-size: 19px;
+    color:   rgb(63, 97, 160); 
+    font-weight: 400px;
+    text-align: center;
+}
+#logo18{
+    height: 587px;
+    width: 1150px;
+    background-color: #F6F4F0;
+    border-radius: 25px;
+    top: 750px;
+    left: 2400px;
+    position: absolute;
+}
+#logo19{
+    height: 600px;
+    width: 1150px;
+    
+    border-radius: 25px;
+    top: 750px;
+    left: 2970px;
+    position: absolute;
+}
+#tagline6{
+    height: 50px;
+    width: 450px;
+    
+    border-radius: 25px;
+    top: 940px;
+    left: 2500px;
+    position: absolute;
+    font-size: 60px;
+    color: #3c4043;
+    font-weight: bold;
+    font-weight: 700px;
+}
+#tagline7{
+    height: 25px;
+    width: 500px;
+    
+    border-radius: 15px;
+    top: 1090px;
+    left: 2500px;
+    position: absolute;
+    font-size: 19px;
+    color: #3c4043; 
+    font-weight: 400px;
+}
+#word4{
+    height: 40px;
+    width: 125px;
+    background-color:  rgb(63, 97, 160);
+    border-radius: 5px;
+    top: 1150px;
+    left: 2500px;
+    position: absolute;
+    font-size: 19px;
+    color:   rgb(63, 97, 160); 
+    font-weight: 400px;
+    text-align: center;
+    color: #dfe3e7;
+}
+#word5{
+    height: 40px;
+    width: 125px;
+    
+    border-radius: 5px;
+    top: 1150px;
+    left: 2650px;
+    position: absolute;
+    font-size: 19px;
+    color:   rgb(63, 97, 160); 
+    font-weight: 400px;
+    text-align: center;
+}
+#logo20{
+    height: 587px;
+    width: 1150px;
+    background-color: #F6F4F0;
+    border-radius: 25px;
+    top: 750px;
+    left: 3600px;
+    position: absolute;
+}
+#logo21{
+    height: 600px;
+    width: 1150px;
+    
+    border-radius: 25px;
+    top: 750px;
+    left: 4150px;
+    position: absolute;
+}
+#tagline8{
+    height: 50px;
+    width: 450px;
+    
+    border-radius: 25px;
+    top: 940px;
+    left: 3700px;
+    position: absolute;
+    font-size: 60px;
+    color: #3c4043;
+    font-weight: bold;
+    font-weight: 700px;
+}
+#tagline9{
+    height: 25px;
+    width: 500px;
+    
+    border-radius: 15px;
+    top: 1020px;
+    left: 3700px;
+    position: absolute;
+    font-size: 19px;
+    color: #3c4043; 
+    font-weight: 400px;
+}
+#word6{
+    height: 40px;
+    width: 125px;
+    background-color:  rgb(63, 97, 160);
+    border-radius: 5px;
+    top: 1070px;
+    left: 3700px;
+    position: absolute;
+    font-size: 19px;
+    color:   rgb(63, 97, 160); 
+    font-weight: 400px;
+    text-align: center;
+    color: #dfe3e7;
+}
+#word7{
+    height: 40px;
+    width: 125px;
+    
+    border-radius: 5px;
+    top: 1070px;
+    left: 3850px;
+    position: absolute;
+    font-size: 19px;
+    color:   rgb(63, 97, 160); 
+    font-weight: 400px;
+    text-align: center;
+}
+#logo22{
+    height: 587px;
+    width: 1150px;
+    border-radius: 35px;
+    top: 1730px;
+    left: 200px;
+    position: absolute;
+    
+}
+#tagline10{ 
+    height : 30px;
+    width : 700px;
+    top : 1530px;
+    left : 430px;
+    position : absolute;
+    color : #3c4043;
+    font-size: 55px;
+    font-style: bold;
+}
+#tagline11{ 
+    height : 30px;
+    width : 700px;
+    top : 1610px;
+    left : 440px;
+    position : absolute;
+    color : #3c4043;
+    font-size: 19px;
+    
+}
+#tagline12{ 
+    height : 30px;
+    width : 500px;
+    top : 1950px;
+    left : 830px;
+    position : absolute;
+    color : #3c4043;
+    font-size: 35px;
+    font-style: bold;
+    text-align: center;
+}
+#tagline13{ 
+    height : 30px;
+    width : 500px;
+    top : 2050px;
+    left : 835px;
+    position : absolute;
+    color : #3c4043;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 400px;
+}
+#star{
+    height :35px;
+    width :35px;
+    left :1050px;
+    top : 1880px;
+    position : absolute;
+}
+#logo23{
+    height: 400px;
+    width: 500px;
+    background-color: #F6F4F0;
+    border-radius: 25px;
+    top: 2420px;
+    left: 280px;
+    position: absolute;
+}
+#tagline14{ 
+    height : 30px;
+    width : 450px;
+    top : 2500px;
+    left : 290px;
+    position : absolute;
+    color : #3c4043;
+    font-size: 47px;
+    text-align: center;
+    font-weight: 400px;
+   
+}
+#tagline15{ 
+    height : 30px;
+    width : 450px;
+    top : 2620px;
+    left : 290px;
+    position : absolute;
+    color : #3c4043;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 400px;
+   
+}
+#word8{
+    height:20px;
+    width: 90px;
+    top: 2700px;
+    left: 330px;
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    font-weight:700px;
+    color: rgb(27, 127, 198);
+}
+#logo25{height: 400px;
+    width: 500px;
+    
+    border-radius: 25px;
+    top: 2355px;
+    left: 810px;
+    position: absolute;;
+}
+#logo24{height: 400px;
+    width: 500px;
+    
+    border-radius: 25px;
+    top: 2420px;
+    left: 1340px;
+    position: absolute;
+}
+#tagline16{
+    height:30px;
+    width: 350px;
+    top: 2420px;
+    left:1360px;
+    text-align: center;
+    font-size: 40px;
+    colour: black
+    position:absolute;
+}
+#logo26{height: 400px;
+    width: 500px;
+    background-color: #F6F4F0;
+    border-radius: 25px;
+    top: 2420px;
+    left: 1870px;
+    position: absolute;
+}
+#logo27{height: 400px;
+    width: 500px;
+    background-color: #F6F4F0;
+    border-radius: 25px;
+    top: 2420px;
+    left: 2410px;
+    position: absolute;
+}
+#logo28{height: 400px;
+    width: 500px;
+    background-color: #F6F4F0;
+    border-radius: 25px;
+    top: 2420px;
+    left: 2940px;
+    position: absolute;
+
+}
+
